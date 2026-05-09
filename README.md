@@ -20,8 +20,6 @@ Create emulator:
 Pixel 6
 API 33
 Then Start ▶
-9. Login
-Username: student
-Password: 1234
-10.kuha ka tali, tali mo sa leeg mo
-11. kuha ka bato pukpok mo sa ulo mo
+9. Loginmona Username: studentPassword: 1234
+10.kuha ka tali, tali mo sa leeg mo.
+11. kuha ka bato pukpok mo sa ulo mo.
